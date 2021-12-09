@@ -39,7 +39,7 @@ jobs:
           java -version
           echo
           echo Is git installed?
-          echo git --version
+          git --version
           echo
           echo what about build tools?
           gradle --version
