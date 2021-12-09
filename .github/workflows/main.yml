@@ -43,5 +43,8 @@ jobs:
           echo
           echo what about build tools?
           gradle --version
+          echo
+          echo what about docker?
+          docker --version
           
           
