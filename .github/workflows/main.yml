@@ -49,5 +49,8 @@ jobs:
           echo
           echo waht about docker-compose?
           docker-compose --version
+          echo
+          echo waht about terraform?
+          terraform --version
           
           
