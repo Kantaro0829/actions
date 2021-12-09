@@ -46,5 +46,8 @@ jobs:
           echo
           echo what about docker?
           docker --version
+          echo
+          echo waht about docker-compose?
+          echo docker-compose --version
           
           
